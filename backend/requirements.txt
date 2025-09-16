@@ -38,6 +38,7 @@ RestrictedPython==8.0
 
 loguru==0.7.3
 asgiref==3.8.1
+itsdangerous>=2.1.2,<3
 
 # AI libraries
 openai
